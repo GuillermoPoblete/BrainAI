@@ -1,7 +1,10 @@
 ---
-title: BrainAI
+title: Home
 layout: home
 ---
+
+
+[Download PGL]
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
@@ -28,3 +31,4 @@ To get started with creating a site, just click "[use this template]"!
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[Download PGL]: https://guillermopoblete-my.sharepoint.com/:f:/g/personal/brainai_guillermopoblete_onmicrosoft_com/EtJiFzbORWlAvSgZ-KETAa8B8eSak15YMdzm-IncR_HIIA?e=jEYnsJ
