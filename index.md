@@ -16,10 +16,3 @@ Guillermo Poblete, Tien Nguyen, Savannah Gosnell, Olutayo Sofela, Michelle Patri
 
 
 
-[Process genes list: An approach to link genetics and human brain imaging]: https://pubmed.ncbi.nlm.nih.gov/32201351/
-
-[Download PGL with Human Brain Atlas]: https://guillermopoblete-my.sharepoint.com/:f:/g/personal/brainai_guillermopoblete_onmicrosoft_com/EtJiFzbORWlAvSgZ-KETAa8B8eSak15YMdzm-IncR_HIIA?e=jEYnsJ
-
-[A Novel Approach to Link Genetics and Human MRI Identifies AKAP7-Dependent Subicular/Prefrontal Functional Connectivity as Altered in Suicidality]: https://pubmed.ncbi.nlm.nih.gov/35340866/ 
-
-[Evolution of genetic networks for human creativity]: https://pubmed.ncbi.nlm.nih.gov/33879864/
